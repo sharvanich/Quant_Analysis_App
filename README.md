@@ -75,7 +75,7 @@ quant-analytics-app/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/quant-analytics-app.git
+git clone https://github.com/sharvanich/quant-analytics-app.git
 cd quant-analytics-app
 ````
 
