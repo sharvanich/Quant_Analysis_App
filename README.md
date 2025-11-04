@@ -185,6 +185,4 @@ PUBLISH live_updates:btcusdt '{"symbol":"btcusdt","price":64000,"zscore":0.5,"sp
 
    * Each module (worker, API, frontend) can be containerized and scaled independently.
 
----
-Would you like me to also generate the **README badges and architecture diagram** (in Mermaid format) so your GitHub page looks more professional?
 ```
