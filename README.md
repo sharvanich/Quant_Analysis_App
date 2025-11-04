@@ -1,10 +1,3 @@
-Absolutely, Sharvani ✅
-Here’s a **complete professional `README.md`** for your project — clean, technical, and GitHub-ready.
-It includes the architecture, setup steps, run instructions, and project explanation based on your actual folder structure and workflow.
-
----
-
-```markdown
 # ⚡ Quant Analytics App
 
 A **real-time quantitative analytics platform** that streams, processes, and visualizes live cryptocurrency market data.  
@@ -169,18 +162,6 @@ Then publish dummy data in Redis:
 redis-cli
 PUBLISH live_updates:btcusdt '{"symbol":"btcusdt","price":64000,"zscore":0.5,"spread":1.2,"corr":0.95}'
 ```
-
-Your dashboard should immediately reflect the new values.
-
----
-
-## 📊 Sample Live Dashboard
-
-![Streamlit Dashboard Screenshot](assets/dashboard_preview.png)
-
-* Real-time price chart (left axis)
-* Spread & Z-score overlay (right axis)
-* Live metrics: Z-score, Spread, Price, and Rolling Correlation
 
 ---
 
