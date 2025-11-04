@@ -1,0 +1,5 @@
+setup.py
+quant_analytics_app.egg-info/PKG-INFO
+quant_analytics_app.egg-info/SOURCES.txt
+quant_analytics_app.egg-info/dependency_links.txt
+quant_analytics_app.egg-info/top_level.txt
