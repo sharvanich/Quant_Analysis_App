@@ -163,8 +163,6 @@ redis-cli
 PUBLISH live_updates:btcusdt '{"symbol":"btcusdt","price":64000,"zscore":0.5,"spread":1.2,"corr":0.95}'
 ```
 
----
-
 ## 🧠 Design Highlights
 
 1. **Decoupled Architecture**:
